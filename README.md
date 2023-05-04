@@ -1,2 +1,2 @@
 # Movie-dataset-queries
-Contains Movie Dataset, it's queries and solutions.
+Contains Movie Dataset, its queries and solutions.
